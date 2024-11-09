@@ -82,10 +82,17 @@ function App() {
   };
 
   const handleAudioEnd = () => {
-    if (currentTrack && currentMusicIndex < currentTrack.track.list.length - 1) {
-      setCurrentMusicIndex(prev => prev + 1);
-    } else {
-      setCurrentMusicIndex(0);
+    if (currentTrack) {
+      const nextIndex = currentTrack.track.list.length > 1 
+        ? (currentMusicIndex + 1) % currentTrack.track.list.length
+        : 0; // For a single track, reset to 0 for looping
+  
+      setCurrentMusicIndex(nextIndex);
+  
+      // Auto-play next track or loop the single track if playing
+      if (audioRef.current && isPlaying) {
+        audioRef.current.play();
+      }
     }
   };
 
