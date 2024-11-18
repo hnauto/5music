@@ -11,7 +11,7 @@ export const scheduleData: { schedule: Schedule[] } = {
         "list": [
           {
             "title": "梅花三弄",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/04f4e13d2f9ba10e04195763b21b56d1.m4a"
+            "music": "https://oss.xaytg.com/file/music/梅花三弄.m4a"
           }
         ]
       }
@@ -25,23 +25,23 @@ export const scheduleData: { schedule: Schedule[] } = {
         "list": [
           {
             "title": "十面埋伏",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/1af1610107a839f3841713b626402b01.m4a"
+            "music": "https://oss.xaytg.com/file/music/十面埋伏.m4a"
           },
           {
             "title": "出水莲",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/0d4dbf5bedfd739a63a461cac378b6c5.m4a"
+            "music": "https://oss.xaytg.com/file/music/出水莲.m4a"
           },
           {
             "title": "春江花月夜",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/c9211aa791673b47e7f14c546da74229.m4a"
+            "music": "https://oss.xaytg.com/file/music/春江花月夜.m4a"
           },
           {
             "title": "琵琶吟",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/983dcd3a1dbaa278df05bbaf36aee812.m4a"
+            "music": "https://oss.xaytg.com/file/music/琵琶吟.m4a"
           },
           {
             "title": "塞上曲",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/19da0376c063effc2ae6f522721c5ca0.m4a"
+            "music": "https://oss.xaytg.com/file/music/塞上曲.m4a"
           }
         ]
       }
@@ -55,7 +55,7 @@ export const scheduleData: { schedule: Schedule[] } = {
         "list": [
           {
             "title": "阳春白雪",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/b059c91f8c93dd6eb6e08a2936f9fa5e.m4a"
+            "music": "https://oss.xaytg.com/file/music/阳春白雪.m4a"
           }
         ]
       }
@@ -69,23 +69,23 @@ export const scheduleData: { schedule: Schedule[] } = {
         "list": [
           {
             "title": "十面埋伏",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/1af1610107a839f3841713b626402b01.m4a"
+            "music": "https://oss.xaytg.com/file/music/十面埋伏.m4a"
           },
           {
             "title": "出水莲",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/0d4dbf5bedfd739a63a461cac378b6c5.m4a"
+            "music": "https://oss.xaytg.com/file/music/出水莲.m4a"
           },
           {
             "title": "春江花月夜",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/c9211aa791673b47e7f14c546da74229.m4a"
+            "music": "https://oss.xaytg.com/file/music/春江花月夜.m4a"
           },
           {
             "title": "琵琶吟",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/983dcd3a1dbaa278df05bbaf36aee812.m4a"
+            "music": "https://oss.xaytg.com/file/music/琵琶吟.m4a"
           },
           {
             "title": "塞上曲",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/19da0376c063effc2ae6f522721c5ca0.m4a"
+            "music": "https://oss.xaytg.com/file/music/塞上曲.m4a"
           }
         ]
       }
@@ -99,7 +99,7 @@ export const scheduleData: { schedule: Schedule[] } = {
         "list": [
           {
             "title": "胡笳十八拍",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/f2e769bd2caadd7510479b0ea60ac0f9.m4a"
+            "music": "https://oss.xaytg.com/file/music/胡笳十八拍.m4a"
           }
         ]
       }
@@ -113,11 +113,11 @@ export const scheduleData: { schedule: Schedule[] } = {
         "list": [
           {
             "title": "胡笳十八拍",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/f2e769bd2caadd7510479b0ea60ac0f9.m4a"
+            "music": "https://oss.xaytg.com/file/music/胡笳十八拍.m4a"
           },
           {
             "title": "紫竹调",
-            "music": "https://assets.vviptuangou.com//uploads/touch/20241109/df52703b30798b3f1befe660197a4482.m4a"
+            "music": "https://oss.xaytg.com/file/music/紫竹调.m4a"
           }
         ]
       }
